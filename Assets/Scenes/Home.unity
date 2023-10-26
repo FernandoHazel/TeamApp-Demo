@@ -1412,7 +1412,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.09019608, g: 0.17254902, b: 0.8980392, a: 0.392}
+  m_Color: {r: 0.011764706, g: 0.27450982, b: 0.5803922, a: 0.50980395}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1621,7 +1621,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.08877714, g: 0.17189237, b: 0.8962264, a: 0.392}
+  m_Color: {r: 0.011764706, g: 0.27450982, b: 0.5803922, a: 0.50980395}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3107,7 +3107,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\xBFRevancha o dominio?"
+  m_text: "\xBFRevancha o dominio?\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4490,10 +4490,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 899345494}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.358, y: 0.7535972}
-  m_AnchorMax: {x: 0.632, y: 0.822}
-  m_AnchoredPosition: {x: -25.330002, y: 9}
-  m_SizeDelta: {x: -48.86, y: 20}
+  m_AnchorMin: {x: 0.31800002, y: 0.7535972}
+  m_AnchorMax: {x: 0.66800004, y: 0.822}
+  m_AnchoredPosition: {x: 11, y: 9}
+  m_SizeDelta: {x: -124.86, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1912548511
 MonoBehaviour:
@@ -4578,7 +4578,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 20.173584, z: -49.085876, w: 0}
+  m_margin: {x: -38.55194, y: 20.173584, z: -49.085876, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -4642,7 +4642,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.09019608, g: 0.17254902, b: 0.8980392, a: 0.392}
+  m_Color: {r: 0.011764706, g: 0.27450982, b: 0.5803922, a: 0.50980395}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
